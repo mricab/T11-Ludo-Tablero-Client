@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LudoClient", "LudoClient\LudoClient.csproj", "{09975416-F0EA-474D-8F89-08E0B588757B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09975416-F0EA-474D-8F89-08E0B588757B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09975416-F0EA-474D-8F89-08E0B588757B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09975416-F0EA-474D-8F89-08E0B588757B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09975416-F0EA-474D-8F89-08E0B588757B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {477AD38A-1777-455A-AC8D-B611C817AF4D}
+	EndGlobalSection
+EndGlobal
